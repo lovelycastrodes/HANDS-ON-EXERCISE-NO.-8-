@@ -39,7 +39,7 @@ body{
    grid-column-start: 1;
    grid-column-end: 5;
    column-gap: 10px;
-   padding: 3px;
+   padding: 5px;
 }
 .box2:nth-child(1){
     background-color: greenyellow;
